@@ -110,14 +110,7 @@ function App() {
           <img src={cloud} style={{ display: 'block', width: '23%', marginLeft: '55%' }} />
         </ParallaxLayer>
 
-         {/* parachute girl */}
-         <ParallaxLayer offset={0.5} speed={-1}>
-            <div className= "card" >
-              <img src={girl} style={{marginLeft:'8%', maxWidth: '100%', height: 'auto' }} />
-              <a href="https://www.freepik.com/free-vector/skydiving-amd-extreme-sports-set_6438401.htm#
-              query=skydiving-amd-extreme-sports-set&position=0&from_view=search&track=sph"></a>
-            </div>
-        </ParallaxLayer>   
+         
 
         {/* Hero Section component */}
         <ParallaxLayer
@@ -148,6 +141,15 @@ function App() {
             <CloudFlexbox items = {projects1} heading = "Projects"/>
           </div>
         </ParallaxLayer>
+
+         {/* parachute girl */}
+         <ParallaxLayer offset={0.5} speed={-1}>
+            <div className= "card" >
+              <img src={girl} style={{marginLeft:'8%', maxWidth: '100%', height: 'auto' }} />
+              <a href="https://www.freepik.com/free-vector/skydiving-amd-extreme-sports-set_6438401.htm#
+              query=skydiving-amd-extreme-sports-set&position=0&from_view=search&track=sph"></a>
+            </div>
+        </ParallaxLayer>  
     
         {/* Sand  */}
         <ParallaxLayer offset={2.2} speed={0.5} >
