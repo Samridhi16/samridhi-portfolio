@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/samridhi-portfolio/static/css/main.2ebad331.css",
-    "main.js": "/samridhi-portfolio/static/js/main.3addae59.js",
+    "main.css": "/samridhi-portfolio/static/css/main.f0535bf0.css",
+    "main.js": "/samridhi-portfolio/static/js/main.e60a55a6.js",
     "static/js/787.1ed0c42c.chunk.js": "/samridhi-portfolio/static/js/787.1ed0c42c.chunk.js",
     "static/media/new_sand.png": "/samridhi-portfolio/static/media/new_sand.ce25372ce23c24ded53b.png",
     "static/media/cloud.png": "/samridhi-portfolio/static/media/cloud.5381bfcce24acf0d7f8f.png",
     "static/media/girl1.png": "/samridhi-portfolio/static/media/girl1.ab04a62eb49bfd8756f0.png",
     "index.html": "/samridhi-portfolio/index.html",
-    "main.2ebad331.css.map": "/samridhi-portfolio/static/css/main.2ebad331.css.map",
-    "main.3addae59.js.map": "/samridhi-portfolio/static/js/main.3addae59.js.map",
+    "main.f0535bf0.css.map": "/samridhi-portfolio/static/css/main.f0535bf0.css.map",
+    "main.e60a55a6.js.map": "/samridhi-portfolio/static/js/main.e60a55a6.js.map",
     "787.1ed0c42c.chunk.js.map": "/samridhi-portfolio/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.2ebad331.css",
-    "static/js/main.3addae59.js"
+    "static/css/main.f0535bf0.css",
+    "static/js/main.e60a55a6.js"
   ]
 }
