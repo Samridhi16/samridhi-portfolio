@@ -1,0 +1,66 @@
+/* .flex-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+}
+
+.flex-item1,
+.flex-item2 {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+} */
+/* @media screen and (max-width: 768px) {
+  .sticky-image {
+    max-width: 50%; /* Reduce the width of the image on smaller screens 
+  }
+} */
+/* 
+.top-layer {
+  z-index: 999;
+} */
+
+.top-layer {
+  max-width: 70%; 
+  margin: 0 auto 30px auto; 
+}
+
+
+.card {
+  display: flex;
+  align-items: center;
+  font-size: 1.25rem;
+  height: 10rem;
+  width: 25%;
+}
+
+
+.animation, .animation_layer {
+	height: 1000px;
+}
+
+.animation {
+  display: block;
+	position: relative;
+	z-index: 10;
+}
+
+.animation_layer {
+	background-position: bottom center;
+	background-size: auto 1038px;
+	background-repeat: repeat-x;
+	width: 100%;
+	position: absolute;
+}
+.animation_layer.parallax {
+	position: fixed;
+}
+
+@media (max-width: 750px) {
+  .card {
+    width: 35%;
+  }
+}

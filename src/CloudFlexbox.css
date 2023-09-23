@@ -1,0 +1,43 @@
+.cloud-container {
+  box-sizing: border-box;
+  margin-right: 20px;
+  padding: 20px;
+  border: 5px solid black; /* Add a black border */
+  background-color: rgba(51, 111, 175, 0.2); 
+  border-radius: 20px;
+
+} 
+.cloud-heading{
+  text-align: center;
+  font-size:xx-large;
+ 
+}
+.flex-item{
+  font-size: large;
+
+}
+
+.carousel .control-arrow {
+  color: black !important; 
+}
+
+.carousel .control-prev.control-arrow:before {
+  border-right: 10px solid #000;
+}
+
+.carousel .control-next.control-arrow:before {
+  border-left: 10px solid #000;
+}
+
+.carousel .control-dots .dot {
+  background-color: black !important; 
+}
+
+.carousel .carousel-status {
+  color: black !important; 
+}
+
+.carousel .control-dots .dot {
+ display: none;
+}
+
