@@ -24,7 +24,7 @@ function SocialButtons() {
             <SocialIcon target="_blank" bgColor="white" fgColor="red" url="mailto:sp7612@rit.edu" />
             </div>
             <Button  style={{margin:'30px 0px', borderColor: '#d23385',borderWidth: '2px',
-            fontWeight: 'bold', color: '#d23385', fontSize: '18px' , fontFamily: 'sans-serif'}} variant="outlined"  target="_blank" size="large" href="https://docs.google.com/document/d/10ke09HehKkea7QJh8uM8V0bGxhOO2tird6pZuahQ3EQ/edit?usp=sharing"> RESUME </Button>
+            fontWeight: 'bold', color: '#d23385', fontSize: '18px' , fontFamily: 'sans-serif'}} variant="outlined"  target="_blank" size="large" href="https://docs.google.com/document/d/19Tv89zpjutdGcwidTaZ9kKBZG6O-v1MtK78MyIL2f80"> RESUME </Button>
         </div>
     );
   }
